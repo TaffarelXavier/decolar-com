@@ -1,1 +1,1 @@
-git fire
+git fire && pause
